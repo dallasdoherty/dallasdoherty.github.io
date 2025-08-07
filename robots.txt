@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dallasdoherty.github.io/sitemap.xml
+Sitemap: https://dallasdoherty.github.io/al-folio/sitemap.xml
