@@ -435,8 +435,8 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-",
-          title: '',
+      },{id: "books-the-geek-way",
+          title: 'The Geek Way',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
