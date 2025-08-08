@@ -23,15 +23,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-",
+        },{id: "post-a-distill-style-blog-post",
         
-          title: "",
+          title: "a distill-style blog post",
         
-        description: "",
+        description: "an example of a distill-style blog post and main elements",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/2018-12-22-distill/";
+            window.location.href = "/blog/2025/distill/";
           
         },
       },{id: "post-a-post-with-plotly-js",
