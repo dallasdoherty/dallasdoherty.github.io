@@ -27,7 +27,7 @@ ninja.data = [{
         
           title: "An Introduction to Quantum Computing",
         
-        description: "A breif introduction to quantum computing",
+        description: "A brief introduction to quantum computing",
         section: "Posts",
         handler: () => {
           
