@@ -23,11 +23,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-a-distill-style-blog-post",
+        },{id: "post-an-introduction-to-quantum-computing",
         
-          title: "a distill-style blog post",
+          title: "An Introduction to Quantum Computing",
         
-        description: "an example of a distill-style blog post and main elements",
+        description: "A breif introduction to quantum computing",
         section: "Posts",
         handler: () => {
           
